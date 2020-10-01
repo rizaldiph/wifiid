@@ -1,11 +1,11 @@
 <?php
 $data = json_encode([
-		'email' => "osyduck@example.com",       //Email
+		'email' => "osyduck@example.com",       //Your Email 
 		'fullname' => "OsyDuck",                //Full Name
 		'password' => "OsyDuck69",              //Password
-		'msisdn' => "082325543919",             //Nomor HP
-		'gender' => "pria",                     //Kelamin
-		'msisdnAlt' => "082325543919",          //Konfirmasi Nomor HP
+		'msisdn' => "082325543919",             //Nomor Handphonw
+		'gender' => "pria",                     //Jenis Kelamin
+		'msisdnAlt' => "082325543919",          //Konfirmasi Nomor HP Kamu
 		'partnerId' => "",                      //Kosong
 		'imei'	=> "865291021620868",           //Imei HP Android
 		'serialNumber'	=>	"NFRWJBY95DDMSKAE"  //Serial Number HP
